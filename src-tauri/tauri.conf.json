@@ -58,6 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
+        "decorations": false,
         "title": "chatgpt",
         "width": 800
       }
